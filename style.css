@@ -45,3 +45,18 @@
    
     /* border: solid 5px ; */
 }
+.name{
+   display: flex;
+   justify-content: center;
+   font-family: "Protest Revolution", sans-serif;
+   font-weight: 1000;
+    font-style: normal;
+    font-size: 35px;
+    color: #7d92a5;
+    /* text-shadow: 5px 1px 1px rgb(255, 255, 255); */
+    margin-top: 100px; 
+}
+.name img{
+    height: 40px;
+    width: 40px;
+}
